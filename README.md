@@ -28,8 +28,8 @@ samples, guidance on mobile development, and a full API reference.
 ## 📸 لقطات الشاشة
 
 ### الشاشة الرئيسية
-![Home](screenshots/home.png.png)
+![Home](screenshots/home.png)
 
 ### زر الرجوع
-![Back](screenshots/back.png.png)
+![Back](screenshots/back.png)
 
